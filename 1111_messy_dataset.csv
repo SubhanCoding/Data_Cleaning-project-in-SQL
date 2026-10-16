@@ -1,0 +1,41 @@
+TransactionID,CustomerName,Email,phoneNumber,PurchaseAmount,PurchaseDate,PaymentMethod,Status
+1,Isha mittal,isha.mittal@example.com,123-456-7890,100.5,2024-03-01,Credit Card,Completed
+2,Jane Smith,jane.smith@example.com,987-654-3210,200.75,2024-03-05,PayPal,Pending
+3,alice Johnson,alice.johnson@example,111-222-3333,150,2024-02-29,Credit Card,Completed
+4,Bob Brown,,444-555-6666,5,2024-03-10,Bank Transfer,Failed
+5,Charlie White,charlie.white@sample.com,123-456-7890,-50,2024-02-28,Cash,Completed
+6,David Green,david.green@example.com,222-333-4444,175.25,2024-03-12,Credit Card,Completed
+7,eva Adams,eva.adams@example.com,555-666-7777,90.1,2024-03-08,PayPal,Pending
+8,Frank Hall,frank.hall@sample.com,999-888-7777,300,2024-03-06,Credit Card,Completed
+9,Grace Lee,grace.lee@example.com,111-222-3333,50.75,2024-03-03,Cash,Completed
+10,Hank Miller,hank.miller@domain.com,444-333-2222,125,2024-03-02,Bank Transfer,Completed
+11,Ivy Clark,ivy.clark@example,777-666-5555,110,2024-03-04,Credit Card,Completed
+12,Jack Wilson,jack.wilson@sample.com,333-222-1111,225.5,2024-03-07,PayPal,Pending
+13,Kate Lewis,kate.lewis@example.com,555-444-3333,180.75,2024-03-09,Cash,Completed
+14,Liam Scott,liam.scott@domain.com,888-777-6666,275,2024-03-11,Card,Completed
+15,Mia Turner,mia.turner@example.com,666-555-4444,-95.5,2024-03-13,PayPal,Completed
+16,Noah Harris,noah.harris@sample.com,999-000-1111,400,2024-03-14,Bank Transfer,Pending
+17,Olivia White,olivia.white@example.com,222-111-0000,210.2,2024-03-15,Credit Card,Completed
+18,paul Walker,paul.walker@example.com,555-000-9999,125.9,2024-03-16,PayPal,Completed
+19,Quinn Adams,quinn.adams@sample.com,444-777-8888,80.3,2024-03-17,Cash,Completed
+20,Rachel King,rachel.king@example.com,333-666-9999,95.6,2024-03-18,Credit Card,Pending
+21,Steve Rogers,steve.rogers@sample.com,111-555-9999,215.4,2024-03-19,PayPal,failed
+22,tony Stark,tony.stark@example.com,777-999-2222,500,2024-03-20,Bank Transfer,Completed
+23,Uma Davis,uma.davis@domain.com,999-222-4444,310.75,2024-03-21,Credit Card,Completed
+24,Victor Hugo,victor.hugo@example.com,444-888-5555,150.6,2024-03-22,PayPal,Completed
+25,Wendy Carter,wendy.carter@sample.com,555-333-1111,290.9,2024-03-23,Cash,Completed
+26,Xander Lee,xander.lee@example.com,111-444-2222,105.3,2024-03-24,Card  ,Pending
+27,Yvonne Harris,yvonne.harris@sample.com,888-666-0000,135.8,2024-03-25,PayPal,Completed
+28,Zack Morris,zack.morris@example.com,222-777-3333,165.5,2024-03-26,Bank Transfer,Completed
+29,Amy Rose,amy.rose@domain.com,777-555-1111,185.75,2024-03-27,Credit Card,Completed
+30,Brian Fox,brian.fox@example.com,999-111-5555,65,2024-03-28,PayPal,Completed
+31,Chris Hall,chris.hall@sample.com,555-888-2222,320.4,2024-03-29,Cash,Completed
+32,Diana Prince,diana.prince@example.com,444-999-1111,420.5,2024-03-30,Credit Card,Completed
+33,Ethan Hunt,ethan.hunt@sample.com,666-000-4444,390.2,2024-03-31,PayPal,Pending
+34,Fiona Shaw,fiona.shaw@domain.com,333-222-5555,225.9,2024-04-01,Bank Transfer,Completed
+35,George Wayne,george.wayne@example.com,111-999-8888,275.3,2024-04-02,Credit Card,Completed
+36,Harry Potter,harry.potter@sample.com,555-444-7777,330.75,2024-04-03,PayPal,Completed
+37,Isla Fisher,isla.fisher@example.com,777-222-1111,115.6,2024-04-04,Cash,Completed
+38,James Bond,james.bond@domain.com,888-000-9999,145.8,2024-04-05,Credit Card,Completed
+39,Karen Gillan,karen.gillan@example.com,222-333-0000,195.5,2024-04-06,PayPal,Completed
+40,Emma Black,emma.black@domain.com,777-888-9999,320.45,2024-03-15,Credit Card,Pending
